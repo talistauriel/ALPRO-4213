@@ -17,7 +17,7 @@ int TotalNilaiArr(int arr[], int n){
     return total;
 }
 
-int RataNilaiArr(int arr[], int n){
+float RataNilaiArr(int arr[], int n){
     int total = TotalNilaiArr(arr,n);
     float rata = (float)total / n;
     return rata;
