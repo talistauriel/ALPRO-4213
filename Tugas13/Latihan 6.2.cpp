@@ -7,7 +7,7 @@ int main(){
     nama_hari var1;
 
     var1 = Senin;
-    cout << "nama_hari" << var1 << endl;
+    cout << var1 << endl;
 
     var1 = Rabu;
     cout << var1 << endl;
