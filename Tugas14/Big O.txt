@@ -1,0 +1,12 @@
+Big O
+
+Notasi Big O adalah bahasa yang kita gunakan untuk berbicara tentang berapa lama suatu algoritma berjalan (kompleksitas waktu) atau berapa banyak memori yang digunakan oleh suatu algoritma (kompleksitas ruang).
+
+Dalam Big O, ada enam jenis kompleksitas utama (ruang dan waktu):
+
+Konstanta: O(1)
+Waktu linier: O(n)
+Waktu logaritmik: O(n log n)
+Waktu kuadrat: O(n^2)
+Waktu eksponensial: O (2 ^ n)
+Waktu faktorial: O (n!)
